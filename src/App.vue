@@ -4,7 +4,9 @@
   </div>
 </template>
 
-<style lang="scss">
+<script></script>
+
+<style>
 #app {
 }
 </style>
